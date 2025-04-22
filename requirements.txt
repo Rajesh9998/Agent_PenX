@@ -1,0 +1,13 @@
+# requirements.txt
+langchain
+langchain-openai
+langchain-community
+langchain-experimental
+google-generativeai
+pinecone-client
+azure-ai-inference
+together
+browser-use
+playwright
+python-dotenv
+pydantic
