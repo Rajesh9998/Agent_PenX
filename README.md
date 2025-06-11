@@ -125,7 +125,4 @@ https://github.com/user-attachments/assets/5e0e48db-05a6-4786-bc91-891943964078
 *   **Ethical Use:** This tool is intended solely for legitimate security research and ethical hacking practices.
 
 ## 📄 License
-
-(Specify your license here - e.g., MIT, Apache 2.0)
-
-**Example:** This project is licensed under the MIT License.
+ This project is licensed under the MIT License.
